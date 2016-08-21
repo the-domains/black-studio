@@ -1,0 +1,14 @@
+layout_spectrum: 0.28657903778366745
+typography_spectrum: 0.11158868786878884
+color:
+  brandStrength: 0.0019219375681132078
+  lightness: 0.4201983802486211
+  saturation: 0.14402102469466627
+  rhythmicContrast: 0.6600952544249594
+  brandColors:
+    - '#000000'
+    - '#404040'
+    - '#808080'
+    - '#BFBFBF'
+    - '#FFFFFF'
+name: Black Studio
