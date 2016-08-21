@@ -1,6 +1,5 @@
+layout_spectrum: 0.28657903778366745
 typography_spectrum: 0.11158868786878884
-content_rating:
-  adult: true
 color:
   brandStrength: 0.0019219375681132078
   lightness: 0.4201983802486211
@@ -12,10 +11,4 @@ color:
     - '#CD5334'
     - '#EDB88B'
     - '#FAD8D6'
-layout_spectrum: 0.28657903778366745
-author:
-  name: Adrian Ortiz
-  email: mr.ortiz@yahoo.com
 name: Black Studio
-title: Black Label Studios
-description: Photography
